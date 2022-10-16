@@ -2,7 +2,7 @@
 
 ## I am a Manual QA Engineer
 
-## Languades and Tools
+## Languages and Tools
 ![Testlink](https://img.shields.io/badge/-Testlink-FFFF00?style=for-the-badge&logo)
 ![Postman](https://img.shields.io/badge/-Postman-FFA500?style=for-the-badge&logo)
 ![JMeter](https://img.shields.io/badge/-JMeter-FF69B4?style=for-the-badge&logo)
