@@ -17,4 +17,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/lera_fialka)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/VFeaktsistava?t=6vpni95hrghLZY2OvTwpGw&s=35)
 
+## My Statistic
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wall120&show_icons=true&theme=radical)](https://github.com/Wall120/github-readme-stats)
