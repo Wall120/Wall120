@@ -3,7 +3,7 @@
 ## I am a Manual QA Engineer
 
 ## My CV
-[![CV](https://img.shields.io/badge/-CV-D2691E)](https://drive.google.com/file/d/13qJGe09VvvMCGMd54jZCOPaZufsjQjZB/view?usp=sharing)
+[![CV](https://img.shields.io/badge/-CV-D2691E?style=flat-square&logo)](https://drive.google.com/file/d/13qJGe09VvvMCGMd54jZCOPaZufsjQjZB/view?usp=sharing)
 
 ## Languages and Tools
 ![TESTLINK](https://img.shields.io/badge/-TESTLINK-090909?style=for-the-badge&logo=TESTLINK&logoColor=FFFF00)
